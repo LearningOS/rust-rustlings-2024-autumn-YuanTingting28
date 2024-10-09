@@ -23,7 +23,7 @@ fn main() {
         Message::Move { x: 10, y: 30 },
         Message::Echo(String::from("hello world")),
         Message::ChangeColor(200, 255, 255),
-        Message::Quit,
+        Message::QUit,
     ];
 
     for message in &messages {
