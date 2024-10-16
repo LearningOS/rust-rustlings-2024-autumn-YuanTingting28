@@ -15,7 +15,6 @@
 // "A+" to show that your changes allow alphabetical grades.
 //
 // Execute `rustlings hint quiz3` or use the `hint` watch subcommand for a hint.
-// I AM NOT DONE
 use std::fmt;
 
 // Define an enum to represent different types of grades
